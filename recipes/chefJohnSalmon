@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Chef John's Salmon</h1>
+        <img src="https://www.allrecipes.com/thmb/pPb6anR9c8Ogfcl-5iit9-6vk1o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc()/2329568-2f10c161fd164514ba2915fc9a723f63.jpg" alt="Served salmon on a plate" width="300px">
+        <h2>Description</h2>
+        <p>This simple broiled salmon dish is full of flavor, thanks to the combination of tarragon and Italian parsley in the herb spread.</p>
+        <h2>Ingredients</h2>
+        <ul>
+            <li>2 (8 ounce) center-cut salmon fillets, with skin</li>
+            <li>¼ teaspoon kosher salt</li>
+            <li>1 teaspoon vegetable oil</li>
+            <li>1 clove garlic, sliced</li>
+            <li>1 tablespoon chopped fresh tarragon</li>
+            <li>1 tablespoon chopped fresh flat-leaf parsley</li>
+            <li>3 tablespoons mayonnaise</li>
+            <li>1 teaspoon Dijon mustard</li>
+            <li>1 teaspoon fresh lemon juice</li>
+            <li>1 pinch cayenne pepper</li>
+        </ul>
+    </body>
+</html>
