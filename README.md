@@ -1,2 +1,3 @@
 # odin-recipes
-Basic recipe website
+Basic recipe website - HTML
+
